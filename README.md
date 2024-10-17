@@ -73,6 +73,15 @@ O arquivo de calibração .yaml inclui os seguintes parâmetros:
 
 
 
+## Desenvolvimento do Código
+
+O desenvolvimento do código foi baseado em um projeto open-source disponível no GitHub, onde os princípios de calibração de câmera com o uso de OpenCV foram baseados. O código original pode ser encontrado no seguinte link:
+
+[https://github.com/niconielsen32/CameraCalibration.git](https://github.com/niconielsen32/CameraCalibration.git)
+
+Além disso, o projeto também fez uso de materiais de um site para auxiliar no entendimento dos parâmetros e no processo de conversão e calibração de câmeras. Você pode acessar o site no link abaixo:
+
+[Learn OpenCV: Camera Calibration](https://www.learnopencv.com/camera-calibration-using-opencv/)
 
 
 
