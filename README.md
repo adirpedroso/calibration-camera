@@ -41,7 +41,7 @@ Em seguida, clone este repositório em seu computador local usando o comando:
 git clone https://github.com/adirpedroso/calibration-camera.git
 ```
 
-## Captuar de imagens 
+## Capturar de imagens 
 Este script serve para facilitar a criação de um dataset, usando uma câmera conectada ao computador, usando a tecla `S` para salvar as imagens.
 
 ```bash
